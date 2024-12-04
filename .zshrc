@@ -13,3 +13,5 @@ export PATH="/usr/local/bin:/opt/homebrew/bin:$PATH"
 
 eval "$(starship init zsh)"
 
+alias ls="eza --icons=always"
+
