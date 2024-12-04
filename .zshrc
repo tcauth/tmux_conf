@@ -13,5 +13,5 @@ export PATH="/usr/local/bin:/opt/homebrew/bin:$PATH"
 
 eval "$(starship init zsh)"
 
+alias zed="open -a /Applications/Zed.app -n"
 alias ls="eza --icons=always"
-
